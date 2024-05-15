@@ -139,6 +139,18 @@ h2 {
     width: 100%;
     
 }
+
+
+
+
+.line {
+    width: 30%;
+    margin: 6rem auto;
+}
+
+
+
+
 .aula3{
     padding: rem;
     display: flex;
@@ -160,14 +172,51 @@ h2 {
     background-color: 
     
 }
+
+
 .div-aula3 p{
   margin: 9em;
     text-align: center;
     }
 
 .form1{
-    padding: 20px;
-    
+    padding: 7rem;
+    display: flex;
+    justify-content: center;
 }
 
 
+.divPrincipal {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.sectionTitle {
+    display: block;
+    justify-content: center;
+    background-color: aqua;
+}
+
+
+
+.div-textos {
+   
+}
+
+.div-textos p {
+    margin: 6rem 6rem;
+    align-items: center;
+}
+
+.div-textos h2 {
+  
+
+}
+
+form input{
+    padding: 15px;
+    height: 20px;
+    justify-content: end;
+}
