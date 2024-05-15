@@ -72,19 +72,12 @@ hr {
   background-color: rgb(0, 0, 0);
 }
 
-.container {
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 0.1rem;
-    margin-top: 20px;
-}
+
 
 .item1 {
-    background-image: url(https://cdn.pixabay.com/photo/2023/08/31/14/00/cactus-8225203_1280.png);
+    background-color: rgba(142, 148, 146, 0.267);
     width: 15rem;
-    height: 10rem;
+    height: 20rem;
     background-size: 50%;
     background-repeat: no-repeat;
     margin-top: 20px;
@@ -93,9 +86,9 @@ hr {
 
 
 .item2 {
-    background-image: url(https://cdn.pixabay.com/photo/2013/07/12/19/24/seedling-154735_1280.png);
+    background-color: rgba(142, 148, 146, 0.267);
     width: 15rem;
-    height: 10rem;
+    height: 20rem;
     background-size: 50%;
     background-repeat: no-repeat;
 }
@@ -103,9 +96,9 @@ hr {
 
 
 .item3 {
-    background-image: url(https://img.freepik.com/fotos-premium/ilustracao-em-vetor-clipart-de-plantas_1003030-13689.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1715558400&semt=ais_user);
+    background-color: rgba(142, 148, 146, 0.267);
     width: 15rem;
-    height: 10rem;
+    height: 20rem;
     background-size: 50%;
     background-repeat: no-repeat;
 }
@@ -115,3 +108,66 @@ hr {
     text-align: center;
     margin-top: 2em;
 }
+
+h2 {
+    text-align: CENTER;
+    margin-top:  3REM;
+    margin-bottom: -5REM;
+}
+
+.sessao {
+    padding: 15rem;
+}
+
+
+.section-container {
+    padding: 9rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.container {
+    width: 15rem;
+    height: 20rem;
+    background-color: grey;
+    gap: 10px;
+}
+
+
+.container img {
+    width: 100%;
+    
+}
+.aula3{
+    padding: rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.aula4 img {
+    width: 100%;
+    height: 100%;
+}
+
+.div-aula3 h1{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+.div-aula3{
+    background-color: 
+    
+}
+.div-aula3 p{
+  margin: 9em;
+    text-align: center;
+    }
+
+.form1{
+    padding: 20px;
+    
+}
+
+
