@@ -8,12 +8,17 @@
 
 }
 
+body h2 {
+    text-align: start;
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+
 header {
     padding: 50px;
-    background-color: white;
+    background-color: #eb9d8d;
     align-items: center;
-    display: flex;
-    justify-content: space-between;
+
 }
 
 nav ul{
@@ -169,7 +174,7 @@ h2 {
     padding: 2rem;
 }
 .div-aula3{
-    background-color: 
+    background-color: #93865a;
     
 }
 
@@ -196,7 +201,11 @@ h2 {
 .sectionTitle {
     display: block;
     justify-content: center;
-    background-color: aqua;
+    background-color:#ccccbb; 
+}
+.sectionTitle h2{
+    text-align: center;
+    background-color: #ccccbb;
 }
 
 
@@ -215,8 +224,36 @@ h2 {
 
 }
 
-form input{
+form {
     padding: 15px;
     height: 20px;
+    margin-top: -10em;
+}
+
+footer{
+    padding: 20px;
+    background-color: bisque;
+    font-size: 40px;
+}
+
+footer nav ul{
+    display: flex;
     justify-content: end;
+
+}
+    
+
+footer nav ul li{
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+footer nav ul li a{
+    text-decoration: none;
+    color:blue;
+}
+
+footer nav ul li a:hover{
+    color: black;
+    transition: 0.8;
 }
