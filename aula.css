@@ -115,7 +115,7 @@ hr {
 }
 
 h2 {
-    text-align: CENTER;
+    text-align: center;
     margin-top:  3REM;
     margin-bottom: -5REM;
 }
@@ -256,4 +256,8 @@ footer nav ul li a{
 footer nav ul li a:hover{
     color: black;
     transition: 0.8;
+}
+
+.aula5 h2{
+    text-align: center;
 }
